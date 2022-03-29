@@ -1,9 +1,9 @@
 body
 {
-	color: #333;
+	color: red;
 	text-align: center;
-	font-family: Arial;
-	font-size: 16px;
+	font-family:  'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	font-size: 25px;
 	margin: 0;
 	padding: 0;
 }
